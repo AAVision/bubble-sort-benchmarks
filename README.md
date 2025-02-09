@@ -29,6 +29,8 @@ The idea of this repo is to check the performance of every language on using the
 ### Rust
 ![rust-screenshot](rust/image.png)
 
+### Ruby
+![ruby-screenshot](ruby/image.png)
 
 ## Specs :anchor:
 I'm using a laptop with the following specs:
@@ -42,7 +44,7 @@ I'm using a laptop with the following specs:
 - Adding
     - Java.
     - Kotlin.
-    - Ruby.
+    - ~~Ruby~~.
     - C#.
     - Perl.
     - Dart.
@@ -54,6 +56,8 @@ I'm using a laptop with the following specs:
     - Powershell.
     - Bach.
     - Ocaml.
+
+- **Add Dockerfile to some languages.**
 
 ## LICENSE :balance_scale:
 
